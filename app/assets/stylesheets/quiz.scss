@@ -1,0 +1,21 @@
+// Place all the styles related to the quiz controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$gray: #F4F4F4;
+
+body {
+  background: $gray; // Using this variable
+}
+
+.border {
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 0.5px;
+  margin: 15px;
+  padding: 15px;
+  background-color: #B0B5B3;
+}
+
+.container{
+  justify-content: center;
+}
